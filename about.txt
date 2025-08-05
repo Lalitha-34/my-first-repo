@@ -1,3 +1,4 @@
-Name:-Lalitha
+Name:-M.LALITHA
 Course:-BCA
-One thing I have learned from GitHub is:-It helps developers store code, changes, collaborate with others, and manage software projects.
+One thing I have learned from GitHub is:-
+                  It helps developers store code, changes, collaborate with others, and manage software projects.
